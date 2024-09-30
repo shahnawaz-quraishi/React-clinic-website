@@ -1,0 +1,33 @@
+
+[
+    {
+        "id" : "1",
+        "title" : "General Treatment",
+        "heading" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut imperdiet."
+    },
+    {
+        "id" : "2",
+        "title" : "Teeth Whitening",
+        "heading" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut imperdiet."
+    },
+    {
+        "id" : "3",
+        "title" : "Heart Surgery",
+        "heading" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut imperdiet."
+    },
+    {
+        "id" : "4",
+        "title" : "Ear Treatment",
+        "heading" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut imperdiet."
+    },
+    {
+        "id" : "5",
+        "title" : "Vision Problems",
+        "heading" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut imperdiet."
+    },
+    {
+        "id" : "6",
+        "title" : "Blood Transfusion",
+        "heading" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut imperdiet."
+    }
+]

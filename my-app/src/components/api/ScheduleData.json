@@ -1,0 +1,16 @@
+
+[
+    {
+        "id" : "1",
+        "subHeading" : "Lorem Amet",
+        "heading" : "Emergency Cases",
+        "para" : "Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis sodales."
+    },
+    {
+        "id" : "2",
+        "subHeading" : "Fusce Porttitor",
+        "heading" : "Doctors Timetable",
+        "para" : "Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis sodales."
+    }
+]
+

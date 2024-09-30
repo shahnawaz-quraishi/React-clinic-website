@@ -1,0 +1,21 @@
+
+[
+    {
+        "id" : "1",
+        "heading" : "Emergency Help",
+        "para" : "Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate."
+        
+    },
+    {
+        "id" : "2",
+        "heading" : "Enriched Pharmecy",
+        "para" : "Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate."
+         
+    },
+    {
+        "id" : "3",
+        "heading" : "Medical Treatment",
+        "para" : "Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate."
+      
+    }
+]

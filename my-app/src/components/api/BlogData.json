@@ -1,0 +1,24 @@
+
+[
+    {
+        "id" : "1",
+        "image" : "img/blog1.jpg",
+        "date" : "22 Aug 2024",
+        "heading" : "We have annnocuced our new product.",
+        "para" : "Lorem Ipsum Dolor A Sit Ameti, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Sed Do Incididunt Sed."
+    },
+    {
+        "id" : "2",
+        "image" : "img/blog2.jpg",
+        "date" : "15 Sep 2024",
+        "heading" : "Top five way for solving teeth problems.",
+        "para" : "Lorem Ipsum Dolor A Sit Ameti, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Sed Do Incididunt Sed."
+    },
+    {
+        "id" : "3",
+        "image" : "img/blog3.jpg",
+        "date" : "2 Nov 2024",
+        "heading" : "We provide highly business soliutions.",
+        "para" : "Lorem Ipsum Dolor A Sit Ameti, Consectetur Adipisicing Elit, Sed Do Eiusmod Tempor Incididunt Sed Do Incididunt Sed."
+    }
+]
